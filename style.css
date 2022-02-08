@@ -1,0 +1,62 @@
+
+#nav {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+} 
+
+h4 {
+    color: rgb(3, 138, 3);
+    font: bold;
+}
+
+h6 {
+    color: rgb(255, 255, 255);
+    font: bold;
+}
+
+.jumbotron {
+    background-color: burlywood;
+}
+
+#main-card {
+    background-color: silver;
+}
+
+.five-day {
+    background-color: lightskyblue;
+    
+}
+
+.green {
+    color: green;
+    color: white;
+    width: 75px;
+}
+
+.yellow {
+    background-color: yellow;
+    color: white;
+    width: 75px; 
+}
+
+.orange {
+    background-color: darkorange;
+    color: white;
+    width: 75px;
+}
+
+.red {
+    background-color: red;
+    color: white;
+    width: 75px;
+}
+
+.purple {
+    background-color: purple;
+    color: white;
+    
+}
